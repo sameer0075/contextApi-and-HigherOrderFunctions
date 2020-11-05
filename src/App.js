@@ -10,11 +10,11 @@ function App() {
   return (
     <MovieProvider>
     <div className="App">
-      {/* <Nav />
+      <Nav />
       <AddMovie />
-      <MovieList /> */}
+      <MovieList />
       <Likes />
-      {/* <Comments /> */}
+      <Comments />
     </div>
     </MovieProvider>
   );
